@@ -1,0 +1,308 @@
+[
+  {
+    "domain": "postman.com",
+    "status": "success",
+    "company_name": "Postman",
+    "overview": "Postman is an AI-native API platform designed for engineers to develop, test, manage, and distribute APIs and services. Built for enterprise scale, the platform features an AI Engineer to assist with building, testing, and maintaining APIs across organizations.",
+    "overview_evidence": [
+      {
+        "source_url": "https://postman.com",
+        "snippet": "The AI-native API Platform\nDevelop, test, manage, and distribute APIs and services. Built for engineers. Designed for enterprise scale.",
+        "verified": true
+      },
+      {
+        "source_url": "https://postman.com",
+        "snippet": "Postman's AI Engineer takes on the work of building, testing, and maintaining APIs across your organization, grounded in the context of every service you already run.",
+        "verified": true
+      }
+    ],
+    "target_audience": "Postman targets individual developers, collaborative engineering teams, and enterprise organizations building, managing, and distributing APIs at scale.",
+    "target_audience_evidence": [
+      {
+        "source_url": "https://postman.com/pricing/",
+        "snippet": "Pricing built for how you work\nClear plans for individuals, teams, and enterprises",
+        "verified": true
+      }
+    ],
+    "generic_emails": [
+      {
+        "email": "info@postman.com",
+        "kind": "generic",
+        "evidence": [
+          {
+            "source_url": "https://postman.com/company/contact-us/",
+            "snippet": "info@postman.com",
+            "verified": true
+          },
+          {
+            "source_url": "https://postman.com/company/contact-us/",
+            "snippet": "info@postman.com",
+            "verified": true
+          }
+        ],
+        "confidence": 0.9
+      },
+      {
+        "email": "info-jp@postman.com",
+        "kind": "generic",
+        "evidence": [
+          {
+            "source_url": "https://postman.com/company/contact-us/",
+            "snippet": "info-jp@postman.com",
+            "verified": true
+          },
+          {
+            "source_url": "https://postman.com/company/contact-us/",
+            "snippet": "info-jp@postman.com",
+            "verified": true
+          }
+        ],
+        "confidence": 0.6
+      }
+    ],
+    "people": [],
+    "source_urls": [
+      "https://postman.com",
+      "https://postman.com/company/about-postman/",
+      "https://www.postman.com/company/contact-sales/",
+      "https://postman.com/company/contact-us/",
+      "https://postman.com/solutions/partner-api-management/",
+      "https://postman.com/solutions/api-lifecycle-management/",
+      "https://postman.com/pricing/"
+    ],
+    "field_confidence": {
+      "overview": 0.5,
+      "target_audience": 0.7,
+      "generic_emails": 0.75
+    },
+    "overall_confidence": 0.65,
+    "needs_review": true,
+    "errors": [],
+    "stats": {
+      "pages_discovered": 7,
+      "pages_fetched": 7,
+      "pages_failed": 0,
+      "prompt_tokens": 1540,
+      "completion_tokens": 1598,
+      "estimated_cost_usd": 0.0005949,
+      "duration_seconds": 2.0780000000013388,
+      "cache_hits": 8
+    },
+    "extracted_at": "2026-09-12T10:07:55.442778Z",
+    "schema_version": "1.0"
+  },
+  {
+    "domain": "supabase.com",
+    "status": "success",
+    "company_name": "Supabase",
+    "overview": "Supabase is an open source Postgres development platform offering built-in authentication, edge functions, storage, realtime data synchronization, and vector embeddings. The platform provides instant ready-to-use REST APIs to help developers build and manage applications efficiently.",
+    "overview_evidence": [
+      {
+        "source_url": "https://supabase.com",
+        "snippet": "Supabase | The Postgres Development Platform\n\nPostgres Database\nEvery project is\na full Postgres database",
+        "verified": true
+      }
+    ],
+    "target_audience": "Supabase targets developers, AI development teams, and enterprise organizations seeking scalable backend database infrastructure for production applications.",
+    "target_audience_evidence": [
+      {
+        "source_url": "https://supabase.com/solutions/innovation-teams",
+        "snippet": "Supabase powers every major AI builder. Your prototypes deserve enterprise infrastructure.",
+        "verified": true
+      }
+    ],
+    "generic_emails": [
+      {
+        "email": "legal@supabase.com",
+        "kind": "generic",
+        "evidence": [
+          {
+            "source_url": "https://supabase.com/contact-us",
+            "snippet": "Legal\nlegal@supabase.com",
+            "verified": true
+          },
+          {
+            "source_url": "https://supabase.com/contact-us",
+            "snippet": "Legal\nlegal@supabase.com",
+            "verified": true
+          }
+        ],
+        "confidence": 0.6
+      },
+      {
+        "email": "privacy@supabase.com",
+        "kind": "generic",
+        "evidence": [
+          {
+            "source_url": "https://supabase.com/contact-us",
+            "snippet": "Privacy\nprivacy@supabase.com",
+            "verified": true
+          },
+          {
+            "source_url": "https://supabase.com/contact-us",
+            "snippet": "Privacy\nprivacy@supabase.com",
+            "verified": true
+          }
+        ],
+        "confidence": 0.9
+      },
+      {
+        "email": "abuse@supabase.com",
+        "kind": "generic",
+        "evidence": [
+          {
+            "source_url": "https://supabase.com/contact-us",
+            "snippet": "Abuse & Acceptable Use\nabuse@supabase.com",
+            "verified": true
+          },
+          {
+            "source_url": "https://supabase.com/contact-us",
+            "snippet": "Abuse & Acceptable Use\nabuse@supabase.com",
+            "verified": true
+          }
+        ],
+        "confidence": 0.6
+      },
+      {
+        "email": "security@supabase.com",
+        "kind": "generic",
+        "evidence": [
+          {
+            "source_url": "https://supabase.com/contact-us",
+            "snippet": "Security\nsecurity@supabase.com",
+            "verified": true
+          },
+          {
+            "source_url": "https://supabase.com/contact-us",
+            "snippet": "Security\nsecurity@supabase.com",
+            "verified": true
+          }
+        ],
+        "confidence": 0.9
+      },
+      {
+        "email": "help-events@supabase.com",
+        "kind": "generic",
+        "evidence": [
+          {
+            "source_url": "https://supabase.com/contact-us",
+            "snippet": "Events\nhelp-events@supabase.com",
+            "verified": true
+          },
+          {
+            "source_url": "https://supabase.com/contact-us",
+            "snippet": "Events\nhelp-events@supabase.com",
+            "verified": true
+          }
+        ],
+        "confidence": 0.6
+      }
+    ],
+    "people": [
+      {
+        "name": "Tracy Lane",
+        "role": "General Counsel",
+        "linkedin_url": null,
+        "evidence": [
+          {
+            "source_url": "https://supabase.com/contact-us",
+            "snippet": "Tracy Lane, General Counsel of Supabase, Inc., serves in that role.",
+            "verified": true
+          },
+          {
+            "source_url": "https://supabase.com/contact-us",
+            "snippet": "Tracy Lane, General Counsel of Supabase, Inc., serves in that role.",
+            "verified": true
+          }
+        ],
+        "confidence": 0.5
+      }
+    ],
+    "source_urls": [
+      "https://supabase.com",
+      "https://supabase.com/solutions/innovation-teams",
+      "https://supabase.com/contact-us",
+      "https://supabase.com/company",
+      "https://supabase.com/pricing",
+      "https://supabase.com/contact/sales",
+      "https://supabase.com/support"
+    ],
+    "field_confidence": {
+      "overview": 0.5,
+      "target_audience": 0.5,
+      "generic_emails": 0.72,
+      "people": 0.5
+    },
+    "overall_confidence": 0.55,
+    "needs_review": true,
+    "errors": [],
+    "stats": {
+      "pages_discovered": 7,
+      "pages_fetched": 7,
+      "pages_failed": 0,
+      "prompt_tokens": 3033,
+      "completion_tokens": 915,
+      "estimated_cost_usd": 0.000501975,
+      "duration_seconds": 3.4530000000013388,
+      "cache_hits": 8
+    },
+    "extracted_at": "2026-09-12T10:07:58.898232Z",
+    "schema_version": "1.0"
+  },
+  {
+    "domain": "vapi.ai",
+    "status": "success",
+    "company_name": "Vapi",
+    "overview": "Vapi provides a unified platform for builders to construct, deploy, and improve voice agents. The platform handles infrastructure, real-time monitoring, and orchestration to allow organizations to move from prompt to production fast.",
+    "overview_evidence": [
+      {
+        "source_url": "https://vapi.ai",
+        "snippet": "One platform for all your voice agents. Orchestration, real-time monitoring, and enterprise-grade configurability built for scale.",
+        "verified": true
+      },
+      {
+        "source_url": "https://vapi.ai",
+        "snippet": "Vapi handles the infrastructure so you can go from prompt to production fast.",
+        "verified": true
+      }
+    ],
+    "target_audience": "Vapi enables organizations ranging from small businesses to global enterprises, as well as developers, to build and deploy voice AI agents.",
+    "target_audience_evidence": [
+      {
+        "source_url": "https://vapi.ai/customers",
+        "snippet": "From small businesses to global enterprises, Vapi enables organizations of all kinds to speak human to their customers",
+        "verified": true
+      }
+    ],
+    "generic_emails": [],
+    "people": [],
+    "source_urls": [
+      "https://vapi.ai",
+      "https://vapi.ai/pricing",
+      "https://vapi.ai/customers",
+      "https://vapi.ai/sales",
+      "https://vapi.ai/careers",
+      "https://vapi.ai/platform",
+      "https://vapi.ai/community"
+    ],
+    "field_confidence": {
+      "overview": 0.5,
+      "target_audience": 0.7
+    },
+    "overall_confidence": 0.6,
+    "needs_review": true,
+    "errors": [],
+    "stats": {
+      "pages_discovered": 7,
+      "pages_fetched": 7,
+      "pages_failed": 0,
+      "prompt_tokens": 2626,
+      "completion_tokens": 1992,
+      "estimated_cost_usd": 0.00079455,
+      "duration_seconds": 2.8909999999959837,
+      "cache_hits": 8
+    },
+    "extracted_at": "2026-09-12T10:08:01.785338Z",
+    "schema_version": "1.0"
+  }
+]

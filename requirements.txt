@@ -1,0 +1,13 @@
+## Runtime dependencies — pinned for reproducibility
+playwright==1.44.0
+beautifulsoup4==4.12.3
+lxml>=5.2
+pydantic[email]>=2.7,<3
+python-dotenv==1.0.1
+openai==1.30.5
+google-generativeai==0.7.2
+urllib3==2.2.1
+
+## Test
+pytest==8.2.2
+pytest-mock==3.14.0

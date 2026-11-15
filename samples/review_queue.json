@@ -1,0 +1,50 @@
+[
+  {
+    "domain": "postman.com",
+    "field": "overview",
+    "value": "Postman is an AI-native API platform designed for engineers to develop, test, manage, and distribute APIs and services. Built for enterprise scale, the platform features an AI Engineer to assist with building, testing, and maintaining APIs across organizations.",
+    "confidence": 0.5,
+    "source_url": "https://postman.com",
+    "reason": "Field confidence 0.50 below threshold 0.60"
+  },
+  {
+    "domain": "supabase.com",
+    "field": "overall",
+    "value": "success",
+    "confidence": 0.55,
+    "source_url": null,
+    "reason": "Overall confidence 0.55 below threshold 0.60"
+  },
+  {
+    "domain": "supabase.com",
+    "field": "overview",
+    "value": "Supabase is an open source Postgres development platform offering built-in authentication, edge functions, storage, realtime data synchronization, and vector embeddings. The platform provides instant ready-to-use REST APIs to help developers build and manage applications efficiently.",
+    "confidence": 0.5,
+    "source_url": "https://supabase.com",
+    "reason": "Field confidence 0.50 below threshold 0.60"
+  },
+  {
+    "domain": "supabase.com",
+    "field": "target_audience",
+    "value": "Supabase targets developers, AI development teams, and enterprise organizations seeking scalable backend database infrastructure for production applications.",
+    "confidence": 0.5,
+    "source_url": "https://supabase.com/solutions/innovation-teams",
+    "reason": "Field confidence 0.50 below threshold 0.60"
+  },
+  {
+    "domain": "supabase.com",
+    "field": "people",
+    "value": "Tracy Lane",
+    "confidence": 0.5,
+    "source_url": null,
+    "reason": "Field confidence 0.50 below threshold 0.60"
+  },
+  {
+    "domain": "vapi.ai",
+    "field": "overview",
+    "value": "Vapi provides a unified platform for builders to construct, deploy, and improve voice agents. The platform handles infrastructure, real-time monitoring, and orchestration to allow organizations to move from prompt to production fast.",
+    "confidence": 0.5,
+    "source_url": "https://vapi.ai",
+    "reason": "Field confidence 0.50 below threshold 0.60"
+  }
+]

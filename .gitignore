@@ -1,0 +1,35 @@
+# Dependencies that are NOT committed
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.Python
+*.egg-info/
+dist/
+build/
+*.log
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+
+# Output (reviewer generates their own or uses --replay)
+/output.json
+/output.csv
+/review_queue.json
+
+# NOTE: cache/ and samples/ are deliberately NOT ignored.
+# They are committed so reviewers can run --replay with no API key.
+# See README.md § Quickstart.
+
+# Local video recording script (not for submission)
+docs/DEMO_SCRIPT.md
+
+cache/
